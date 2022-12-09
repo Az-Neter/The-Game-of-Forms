@@ -39,7 +39,8 @@
 - Element
 - Metal
 - Mineral
-- Particle-Wave
+- Particle
+- Wave
 - Tool
 - Youth
 - Language
