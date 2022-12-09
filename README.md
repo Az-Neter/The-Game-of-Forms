@@ -17,7 +17,8 @@ You cannot have duplicates of cards in the 'Ideas' or 'Qualifiers' category.
  
  [FULL RULES](https://github.com/Az-Neter/The-Game-of-Forms/blob/main/Rules/Rules_v1.pdf)  
  
-  [OUR Cards](https://github.com/Az-Neter/The-Game-of-Forms/tree/main/Cards) (Community-Made)    
+  
  [Lists of All Cards](https://github.com/Az-Neter/The-Game-of-Forms/tree/main/Lists) (Used for making your own custom cards)  
+ [OUR Cards](https://github.com/Az-Neter/The-Game-of-Forms/tree/main/Cards) (Community-Made)   
    
    Note: You do not require our cards to play; You can make your own or use slips of paper with your card info written on them.
