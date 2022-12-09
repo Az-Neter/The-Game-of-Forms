@@ -1,4 +1,4 @@
-A Game for Occultists  
+~A Game for Occultists  
 
 [Full Repository Download](https://github.com/Az-Neter/The-Game-of-Forms/archive/refs/heads/main.zip)
 
