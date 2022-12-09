@@ -14,4 +14,6 @@ You may have up to 3 duplicates of cards in the 'Examples' category.
 
 You cannot have duplicates of cards in the 'Ideas' or 'Qualifiers' category.  
  
- [FULL RULES](https://github.com/Az-Neter/The-Game-of-Forms/blob/main/Rules_v1.pdf)
+ [FULL RULES](https://github.com/Az-Neter/The-Game-of-Forms/blob/main/Rules_v1.pdf)  
+   
+   Note: You do not require our cards to play; You can make your own or use slips of paper with your card info written on them.
