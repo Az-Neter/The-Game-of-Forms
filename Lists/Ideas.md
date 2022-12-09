@@ -1,0 +1,45 @@
+# [Ideas]  
+5 Per Deck  
+0 Duplicates Allowed  
+
+## 『Abstract』
+- Space
+- Time*
+- Universe
+- Magic**
+- Science*
+- Fear*
+- God**
+- Myth
+- Truth*
+- Deception
+- Tao
+- Wyrd
+- Ankh
+- Wdjat
+- Spell
+- Symbol
+- Nothing**
+- Hope
+- Soul*
+- Chaos*
+- Control
+- Law
+- Money
+- Movement
+- Consciousness
+- Need
+- Want
+- Communication
+- Experience
+- Emotion
+## 「Creation」
+- Creation*
+- Life**
+- Peace
+- Society
+- Nature
+## 「Destruction」
+- Destruction**
+- Death*
+- War*
