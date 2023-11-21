@@ -22,3 +22,5 @@ You cannot have duplicates of cards in the 'Ideas' or 'Qualifiers' category.
  [OUR Cards](https://github.com/Az-Neter/The-Game-of-Forms/tree/main/Cards) (Community-Made)   
    
    Note: You do not require our cards to play; You can make your own or use slips of paper with your card info written on them.
+
+[Multiplayer Tabletop Variant (Work In-Progress)](https://github.com/Az-Neter/The-Tabletop-Game-of-Forms)
